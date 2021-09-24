@@ -1,0 +1,48 @@
+{
+    "assessments": [
+        {
+            "id": "1",
+            "title": "Top Learning Goals",
+            "scorecard": [
+                {
+                    "objective": "Leadership",
+                    "score": "2"
+                },
+                {
+                    "objective": "Product Management",
+                    "score": "1"
+                },
+                {
+                    "objective": "Statistics",
+                    "score": "3"
+                },
+                {
+                    "objective": "Mobile Learning",
+                    "score": "1"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "title": "Top Skills (Assessment)",
+            "scorecard": [
+                {
+                    "objective": "Leadership",
+                    "score": "1"
+                },
+                {
+                    "objective": "Product Management",
+                    "score": "1"
+                },
+                {
+                    "objective": "Statistics",
+                    "score": "1"
+                },
+                {
+                    "objective": "Mobile Learning",
+                    "score": "1"
+                }
+            ]
+        }
+    ]
+}

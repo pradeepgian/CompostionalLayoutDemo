@@ -1,0 +1,48 @@
+{
+    "summary": {
+        "title": "Summary of Abhishek's team",
+        "activities": [
+            {
+                "id": "1",
+                "title": "Overall Activity",
+                "score": "44"
+            },
+            {
+                "id": "2",
+                "title": "Cards Completed",
+                "score": "25"
+            },
+            {
+                "id": "3",
+                "title": "Cards Contributed",
+                "score": "5"
+            },
+            {
+                "id": "4",
+                "title": "Points Scored",
+                "score": "1200"
+            },
+            {
+                "id": "5",
+                "title": "Learning Hours",
+                "score": "86h 26m"
+            },
+            {
+                "id": "6",
+                "title": "Assignments Overdue",
+                "score": "19"
+            },
+            {
+                "id": "7",
+                "title": "Cards Shared",
+                "score": "22"
+            },
+            {
+                "id": "8",
+                "title": "Active Users",
+                "score": "3"
+            }
+
+        ]
+    }
+}

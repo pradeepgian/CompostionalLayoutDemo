@@ -1,0 +1,70 @@
+{
+    "comment": "JSON copied from random user API - https://randomuser.me",
+    "persons": [
+    {
+      "id": "1",
+      "name": {
+        "first": "Louane",
+        "last": "Vidal"
+      },
+      "picture": {
+          "large": "https://randomuser.me/api/portraits/women/88.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/88.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/88.jpg"
+      },
+      "showOuterCircle": 1
+    },
+    {
+      "id": "2",
+      "name": {
+        "first": "Don",
+        "last": "White"
+      },
+      "picture": {
+          "large": "https://randomuser.me/api/portraits/men/38.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/38.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/38.jpg"
+      },
+      "showOuterCircle": 0
+    },
+    {
+      "id": "3",
+      "name": {
+        "first": "Monsieur",
+        "last": "Brun"
+      },
+      "picture": {
+          "large": "https://randomuser.me/api/portraits/men/3.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/3.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
+      },
+      "showOuterCircle": 0
+    },
+    {
+      "id": "4",
+      "name": {
+        "first": "Aubrey",
+        "last": "Martin"
+      },
+      "picture": {
+          "large": "https://randomuser.me/api/portraits/men/23.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/23.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/23.jpg"
+      },
+      "showOuterCircle": 0
+    },
+    {
+      "id": "5",
+      "name": {
+        "first": "Julia",
+        "last": "Smith"
+      },
+      "picture": {
+          "large": "https://randomuser.me/api/portraits/women/18.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/18.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/18.jpg"
+      },
+      "showOuterCircle": 0
+    }
+    ]
+}

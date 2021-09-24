@@ -1,0 +1,24 @@
+{
+    "categories": [
+        {
+            "id": "1",
+            "name": "Overview",
+        },
+        {
+            "id": "2",
+            "name": "Learning Plan"
+        },
+        {
+            "id": "3",
+            "name": "Assignments"
+        },
+        {
+            "id": "4",
+            "name": "Learning Material"
+        },
+        {
+            "id": "5",
+            "name": "FAQ"
+        },
+    ]
+}
